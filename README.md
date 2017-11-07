@@ -65,6 +65,24 @@
 
 ## Code Review
 
+- **Article** - [Code Review Etiquette](https://css-tricks.com/code-review-etiquette): This post will briefly define code reviews, describe some common mistakes, and provide some quick tips for improving a code review process.
+
+- **Article** - [How to Do Code Reviews Like a Human (Part One)](https://mtlynch.io/human-code-reviews-1): Techniques that treat the code review as not only a technical process but a social one as well.
+
+- **Article** - [What We Learned from Google: Code Reviews Aren’t Just for Catching Bugs](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs): Contained herein are both the big, obvious engineering reasons you should adopt code reviews, as well as the more nuanced — but equally important — benefits to your customers and your own company culture.
+
+- **Article** - [Code Review in Four Steps](https://www.bignerdranch.com/blog/code-review-four-steps): Big Nerd Ranch esteems code review. We’ve seen it pay off time and again. It is core to our workflow and process. If you want to experience the benefits in your team, here’s what that means in practice for everyone involved.
+
+- **Article** - [The 4 Things We Look For in a Code Review](https://www.bignerdranch.com/blog/the-4-things-we-look-for-in-a-code-review): Most developers think that every “other” developer’s code is “no good.” In fact, it is exactly this “Not Invented Here” syndrome that makes it dangerous for other developers to evaluate an existing project’s quality without a checklist or template as a guide.
+
+- **Article** - [Reviewing Code](https://hashrocket.com/blog/posts/reviewing-code): The dreaded code review. Nobody likes receiving or delivering a code review, but scrutinizing our code leads to a better product.
+
+- **Article** - [Thoughtbot Code Review Guide](https://github.com/thoughtbot/guides/tree/master/code-review): A guide for reviewing code and having your code reviewed.
+
+- **Article** - [Running Code Reviews with Confidence](https://alistapart.com/article/running-code-reviews-with-confidence): This post will describe battle-tested process for conducting code reviews, highlighting the questions you should ask during the review process as well as the necessary version control commands to download and review someone’s work.
+
+- **Video** - [Implementing a Strong Code-Review Culture](https://confreaks.tv/videos/railsconf2015-implementing-a-strong-code-review-culture): Code reviews are not about catching bugs. Modern code reviews are about socialization, learning, and teaching.
+
 ## Git
 
 - **Article** - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit): Why good commit messages matter.
